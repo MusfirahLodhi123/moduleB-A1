@@ -9,7 +9,7 @@
 // let exp4 = 32 + "abc" || (true + false) + false || + 5 || "true";
 // console.log(exp4);
 // let exp5 = false || (true + true) + 15 && "" || 50;
-// console.log(exp)5;
+// console.log(exp5);
 // let exp6 = (true + false) + 5 || false + 8 + "abc" || "true";
 // console.log(exp6);
 // let exp7 = "faraz" || false + 10 || "true";
